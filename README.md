@@ -334,7 +334,8 @@ void Error_Handler(void)
 
 
 ## Output screen shots on serial monitor   :
-<img width="1817" height="827" alt="image" src="https://github.com/user-attachments/assets/ae38824f-76c0-41d9-8275-a88e554584d1" />
+<img width="1878" height="870" alt="image" src="https://github.com/user-attachments/assets/a566bcb4-8337-44be-a343-680c54bdbf73" />
+
 
  <img width="1275" height="789" alt="image" src="https://github.com/user-attachments/assets/ea0b3377-cef5-4cec-afcb-7e40ad3be091" />
 
