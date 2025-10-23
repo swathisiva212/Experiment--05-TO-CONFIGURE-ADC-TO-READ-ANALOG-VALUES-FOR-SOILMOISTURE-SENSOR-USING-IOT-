@@ -340,7 +340,8 @@ void Error_Handler(void)
  <img width="1275" height="789" alt="image" src="https://github.com/user-attachments/assets/ea0b3377-cef5-4cec-afcb-7e40ad3be091" />
 
  
- 
+ <img width="1021" height="838" alt="image" src="https://github.com/user-attachments/assets/c112bd35-099b-436e-bf17-a06a1f29fd39" />
+
  
 ## Result :
 Interfacing a Analog Input (soil moisture sensor) with ARM microcontroller based IOT development is executed and the results visualized on serial monitor 
